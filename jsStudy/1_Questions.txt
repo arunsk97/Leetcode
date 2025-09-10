@@ -1,0 +1,72 @@
+//Beginner
+
+Reverse a string without using .reverse().
+
+Check if a given number is prime.
+
+Find the maximum number in an array.
+
+Count the number of vowels in a string.
+
+Check if two strings are anagrams of each other.
+
+----------------------------------------
+
+Array-focused
+
+Remove duplicates from an array.
+
+Find the intersection of two arrays.
+
+Flatten a nested array into a single array.
+
+Rotate an array by k steps.
+
+Find the most frequent element in an array.
+-
+
+-------------------------------------------------------
+
+
+Object-focused
+
+Count word frequency in a sentence and store it in an object.
+
+Convert an object into an array of key-value pairs.
+
+Group an array of objects by a property (e.g., group people by age).
+
+Merge two nested objects deeply.
+
+Find the first non-repeating character in a string using an object.
+
+
+------------------------------------------------------------------------
+
+Higher-order functions
+
+Use map to return squares of each number in an array.
+
+Use filter to get only even numbers from an array.
+
+Use reduce to calculate the sum of numbers in an array.
+
+Chain map, filter, and reduce to process an array (e.g., square numbers, filter evens, then sum).
+
+Implement a custom version of map.
+
+
+-------------------------------------------------------------------------
+
+
+Advanced
+
+Implement a debounce function.
+
+Implement a throttle function.
+
+Write a function that returns a promise-based delay (e.g., delay(2000) waits 2 seconds).
+
+Write a function that retries a promise n times before failing.
+
+Implement your own version of Promise.all.
